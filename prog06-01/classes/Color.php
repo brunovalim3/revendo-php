@@ -1,4 +1,6 @@
 <?php
+namespace Prog0601\Classes;
+
 require_once "classes/AbstractColor.php";
 
 class Color extends AbstractColor {

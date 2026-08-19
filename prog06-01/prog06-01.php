@@ -1,6 +1,8 @@
 <?php
-require "classes/Red.php";
-require "classes/Blue.php";
+require "autoload.php";
+
+use Prog0601\Classes\Red;
+use Prog0601\Classes\Blue;
 
 $colorRed = new Red();
 $colorBlue = new Blue();

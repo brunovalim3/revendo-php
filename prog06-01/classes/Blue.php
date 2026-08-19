@@ -1,4 +1,6 @@
 <?php
+namespace Prog0601\Classes;
+
 require_once "classes/Color.php";
 
 final class Blue extends Color {
